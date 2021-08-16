@@ -9,9 +9,7 @@ function home() {
   return (
     <Container fluid>
       <Row>
-        <Col xs={7} className="col-left">
-          (wider)
-        </Col>
+        <Col xs={7} className="col-left"></Col>
         <Col className="col-right" xs={5}></Col>
       </Row>
     </Container>
