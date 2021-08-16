@@ -8,3 +8,12 @@
   opacity: 1;
   border-radius: 20px;
 }
+
+.col-right {
+  top: 359px;
+  left: 1251px;
+  width: 493px;
+  height: 363px;
+  background: transparent url("img/Group 1.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}

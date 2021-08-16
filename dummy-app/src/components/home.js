@@ -12,9 +12,7 @@ function home() {
         <Col xs={7} className="col-left">
           (wider)
         </Col>
-        <Col className="col-right" xs={5}>
-          Test
-        </Col>
+        <Col className="col-right" xs={5}></Col>
       </Row>
     </Container>
   );
